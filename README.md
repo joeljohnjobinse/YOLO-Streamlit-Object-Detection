@@ -230,33 +230,21 @@ Features available:
 
 ### Conda Environment Activation
 
-Insert screenshot:
-
-```text
 <img width="790" height="465" alt="image" src="https://github.com/user-attachments/assets/6116bc86-6ca6-4b07-9b0f-3dba275373f9" />
 
-```
 
 ---
 
 ### Running Streamlit Command
 
-Insert screenshot:
-
-```text
 <img width="1444" height="507" alt="image" src="https://github.com/user-attachments/assets/85b55698-ee11-4fe6-8ba0-4e15610f05ea" />
 
-```
 
 ---
 
 ### Streamlit User Interface
 
-Insert screenshot:
-
-```text
 Screenshots/ss4.png
-```
 
 ---
 
