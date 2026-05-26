@@ -1,5 +1,8 @@
 # 🔍 Smart Visual Object Search System using YOLOv8 and Streamlit
 
+# Name: Joel John Jobinse
+# Register No: 212223240062
+
 ## 1. Project Title
 
 **Smart Visual Object Search System using YOLOv8 and Streamlit**
@@ -230,7 +233,8 @@ Features available:
 Insert screenshot:
 
 ```text
-Screenshots/conda_activation.png
+<img width="790" height="465" alt="image" src="https://github.com/user-attachments/assets/6116bc86-6ca6-4b07-9b0f-3dba275373f9" />
+
 ```
 
 ---
@@ -240,7 +244,8 @@ Screenshots/conda_activation.png
 Insert screenshot:
 
 ```text
-Screenshots/streamlit_run.png
+<img width="1444" height="507" alt="image" src="https://github.com/user-attachments/assets/85b55698-ee11-4fe6-8ba0-4e15610f05ea" />
+
 ```
 
 ---
@@ -250,7 +255,7 @@ Screenshots/streamlit_run.png
 Insert screenshot:
 
 ```text
-Screenshots/browser_ui.png
+Screenshots/ss4.png
 ```
 
 ---
@@ -260,7 +265,9 @@ Screenshots/browser_ui.png
 Insert screenshot:
 
 ```text
-Screenshots/detection_result.png
+Screenshots/ss1.png
+Screenshots/ss2.png
+Screenshots/ss3.png
 ```
 
 ---
@@ -270,14 +277,10 @@ Screenshots/detection_result.png
 Insert screenshot:
 
 ```text
-Screenshots/search_results.png
+Screenshots/ss2.png
 ```
 
 ---
-
-## 9. Enhancements / Innovations Added
-
-The following improvements were added beyond normal object detection systems:
 
 ### 1. Visual Search Engine
 
