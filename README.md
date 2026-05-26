@@ -244,29 +244,21 @@ Features available:
 
 ### Streamlit User Interface
 
-Screenshots/ss4.png
+<img width="1507" height="815" alt="ss4" src="https://github.com/user-attachments/assets/c55fcef2-b8a7-48ab-9349-5f371d255f3f" />
+
 
 ---
 
 ### Object Detection Results
 
-Insert screenshot:
-
-```text
-Screenshots/ss1.png
-Screenshots/ss2.png
-Screenshots/ss3.png
-```
+<img width="1508" height="761" alt="ss3" src="https://github.com/user-attachments/assets/bbe908ef-503e-40ab-bcfc-a8af7935c461" />
 
 ---
 
 ### Search Results
+<img width="941" height="765" alt="ss1" src="https://github.com/user-attachments/assets/eeca4325-d349-4a9a-94c9-49b120fd3ed5" />
 
-Insert screenshot:
-
-```text
-Screenshots/ss2.png
-```
+<img width="1472" height="787" alt="ss2" src="https://github.com/user-attachments/assets/86bf29ac-713c-4909-9b4f-30b965eedb6f" />
 
 ---
 
