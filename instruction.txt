@@ -1,0 +1,25 @@
+CPU INSTALLATION
+
+conda create -n yolo_env python=3.10 -y
+
+conda activate yolo_env
+
+pip install torch torchvision torchaudio
+
+pip install -r requirements.txt
+
+
+GPU INSTALLATION
+
+conda create -n yolo_env python=3.10 -y
+
+conda activate yolo_env
+
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+pip install -r requirements.txt
+
+
+RUN PROJECT
+
+streamlit run app.py

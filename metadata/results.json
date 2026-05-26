@@ -1,0 +1,70 @@
+[
+  {
+    "image_path": "uploads\\img1.jpg",
+    "detections": [
+      {
+        "class": "person",
+        "confidence": 0.899459719657898
+      },
+      {
+        "class": "potted plant",
+        "confidence": 0.8768333196640015
+      },
+      {
+        "class": "chair",
+        "confidence": 0.7229083180427551
+      },
+      {
+        "class": "dog",
+        "confidence": 0.5989753007888794
+      },
+      {
+        "class": "book",
+        "confidence": 0.27140697836875916
+      }
+    ],
+    "class_counts": {
+      "person": 1,
+      "potted plant": 1,
+      "chair": 1,
+      "dog": 1,
+      "book": 1
+    }
+  },
+  {
+    "image_path": "uploads\\img2.jpeg",
+    "detections": [
+      {
+        "class": "person",
+        "confidence": 0.939054012298584
+      }
+    ],
+    "class_counts": {
+      "person": 1
+    }
+  },
+  {
+    "image_path": "uploads\\img3.jpeg",
+    "detections": [
+      {
+        "class": "bottle",
+        "confidence": 0.5533303618431091
+      }
+    ],
+    "class_counts": {
+      "bottle": 1
+    }
+  },
+  {
+    "image_path": "uploads\\img4.jpeg",
+    "detections": [
+      {
+        "class": "car",
+        "confidence": 0.883854866027832
+      }
+    ],
+    "class_counts": {
+      "car": 1
+    }
+  }
+]
